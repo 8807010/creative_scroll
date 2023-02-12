@@ -1,0 +1,7 @@
+.hero {
+  width: calc(var(--index) * 36);
+  position: absolute;
+  left: 37vw;
+  top: 22vh;
+  z-index: -1;
+}
